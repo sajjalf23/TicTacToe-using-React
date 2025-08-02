@@ -1,0 +1,9 @@
+.board_square{
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(227, 225, 70);
+}
